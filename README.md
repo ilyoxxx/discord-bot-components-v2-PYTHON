@@ -8,7 +8,7 @@ Un bot Discord moderne construit avec **discord.py ≥ 2.6** et les nouveaux **C
 
 > ⚠️ **Note honnête** : aucun logiciel n'est "100% sécurisé". Ce projet applique un ensemble de bonnes pratiques reconnues (moindre privilège, secrets hors du code, validation, gestion d'erreurs) pour réduire au maximum la surface d'attaque — mais la sécurité reste un processus continu (mises à jour des dépendances, rotation du token, etc.), pas un état figé.
 
-C'est l'équivalent Python du [bot Node.js / discord.js](../discord-bot-v2) — même structure, mêmes fonctionnalités, mêmes principes de sécurité.
+C'est l'équivalent Python du [bot Node.js / discord.js]([../discord-bot-v2](https://github.com/ilyoxxx/discord-bot-components-v2-JAVASCRIPT)) — même structure, mêmes fonctionnalités, mêmes principes de sécurité.
 
 ---
 
