@@ -1,0 +1,4 @@
+# discord.py >= 2.6 est requis pour le support des Components V2
+# (discord.ui.LayoutView, Container, Section, TextDisplay, etc.)
+discord.py>=2.6.0
+python-dotenv>=1.0.0
